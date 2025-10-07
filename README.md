@@ -97,9 +97,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alejav0240.alejav0240&"  />
-</div>
-
-###
